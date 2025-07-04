@@ -100,7 +100,7 @@ Feel free to fork, improve, and send pull requests. Issues and feature requests 
 
 ## 🧑‍💻 Author
 
-Created by \[Your Name].
+Created by TheCodeZ.
 Contact: \[[Omidh225@gmail.com](mailto:Omidh225@gmail.com)]
 
 ---
