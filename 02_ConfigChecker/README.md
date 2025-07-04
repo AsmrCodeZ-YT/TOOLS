@@ -103,6 +103,3 @@ Feel free to fork, improve, and send pull requests. Issues and feature requests 
 Created by TheCodeZ.
 Contact: \[[Omidh225@gmail.com](mailto:Omidh225@gmail.com)]
 
----
-
-If you want, I can help generate the actual `README.md` file or make it in Persian too.
